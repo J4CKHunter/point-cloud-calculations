@@ -21,3 +21,7 @@ programda bulunan sonuçların verilerini output.nkt dosyasında bulabilirsiniz.
 Projede gerçekleştirilmesi istenenleri [dökümantasyon dosyasında](https://github.com/J4CKHunter/point-cloud-calculations/blob/main/prolab1_1.pdf) bulabilirsiniz.
 
 Projede gerçekleştirilen isterler ile ilgili detaylı açıklamalar [proje raporunun](https://github.com/J4CKHunter/point-cloud-calculations/blob/main/RAPOR%20180202050-180202042.pdf) içerisindedir.
+
+## example output
+
+[<img src="https://raw.githubusercontent.com/J4CKHunter/point-cloud-calculations/main/1.png" width="600"/>](1.png)
